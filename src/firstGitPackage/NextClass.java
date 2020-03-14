@@ -6,6 +6,7 @@ public class NextClass {
 
 		System.out.println("Hello git users");
 		System.out.println("Hello world!");
+		System.out.println("Hello edit");
 
 	}
 
